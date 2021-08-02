@@ -31,7 +31,7 @@
     "prettier": "2.3.2",
     "redoc-cli": "^0.12.0",
     "ts-jest": "27.0.4",
-    "ts-node": "9.0.0"
+    "ts-node": "9.1.1"
   },
   "scripts": {
     "build": "tsc",
