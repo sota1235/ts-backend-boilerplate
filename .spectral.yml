@@ -5,4 +5,3 @@ rules:
   info-license: false
   license-url: false
   openapi-tags-alphabetical: false
-  operation-default-response: false
