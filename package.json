@@ -20,7 +20,7 @@
     "lint-staged": "13.0.4",
     "nodemon": "2.0.20",
     "prettier": "2.7.1",
-    "redoc-cli": "^0.13.0",
+    "redoc-cli": "^0.13.20",
     "ts-jest": "29.0.3",
     "ts-node": "10.9.1"
   },
