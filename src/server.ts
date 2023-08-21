@@ -3,7 +3,7 @@ import logger from 'morgan';
 import { setRoutes } from './routes';
 
 const app = express();
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT ?? 3000;
 
 // TODO switch format for Prod
 app.use(logger('dev'));
